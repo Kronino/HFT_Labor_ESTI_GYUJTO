@@ -1,0 +1,12 @@
+Hozz létre egy fő könyvtárat az aktuális év neve alapján, például 2024.
+A fő könyvtáron belül hozz létre egy alkönyvtárat minden hónap számára, például January, February, stb.
+Minden hónap alkönyvtárába hozz létre egy fájlt, amely az adott hónap nevével kezdődik és a napokat tartalmazza (pl. January-01.txt, January-02.txt, stb.). Minden fájl tartalmazza a hónap nevét és a nap dátumát.
+
+Definiálj egy Month osztályt, amely tartalmazza a hónap nevét és a napok listáját.
+Definiálj egy Day osztályt, amely tartalmazza a nap dátumát és az ahhoz tartozó szöveget.
+Az Month osztály rendelkezzen egy metódussal, amely fájlokat generál az alkönyvtárhoz.
+Események és delegáltak:
+
+Definiálj egy eseményt, amely értesít, amikor új fájl kerül létrehozásra.
+Hozz létre egy delegáltat, amely a fájl létrehozását követően végrehajtandó műveleteket definiálja.
+Az eseményhez rendelj hozzá egy eseménykezelőt, amely kiírja a fájl nevét és elérési útját.

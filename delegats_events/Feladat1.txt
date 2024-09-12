@@ -1,0 +1,24 @@
+Feladat: Készíts egy alkalmazást, amely egy termékekből álló listát kezel, és különböző elemzéseket végez rajta a Func delegáltak segítségével. Az alkalmazásnak tartalmaznia kell egy Product osztályt, egy ProductProcessor osztályt, és egy ReportGenerator osztályt.
+
+Product Osztály:
+
+Tulajdonságok:
+Name (a termék neve)
+Price (a termék ára)
+Quantity (a termék mennyisége)
+
+ProductProcessor Osztály:
+
+Metódusok:
+ApplyOperation(Func<Product, decimal> operation, Product[] products) (a termékek listáján végrehajtott művelet)
+Delegáltak:
+Használj Func<Product, decimal> delegáltakat különböző számításokhoz ( árak összesítése, összes mennyiség, stb.)
+ReportGenerator Osztály:
+
+Metódusok:
+GenerateReport(Func<Product, decimal> operation, Product[] products) (jelentés generálása a megadott művelettel)
+Program Osztály:
+
+Hozz létre egy ProductProcessor és egy ReportGenerator példányt.
+Definiálj különböző Func delegáltakat a termékek feldolgozásához.
+Használj ProductProcessor és ReportGenerator osztályokat az elemzések végrehajtásához és jelentések generálásához.

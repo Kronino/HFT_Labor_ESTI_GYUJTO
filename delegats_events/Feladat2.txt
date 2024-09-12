@@ -1,0 +1,26 @@
+Feladat: Készíts egy egyszerű banki rendszert, amely demonstrálja a beépített delegáltakat és eseményeket. A rendszernek figyelnie kell a pénzmozgásokat, és értesítéseket kell küldenie a tranzakciókról.
+
+BankAccount Osztály:
+
+Tulajdonságok:
+Balance (a számla egyenlege)
+Események:
+Deposited (amikor pénz kerül hozzáadásra a számlára)
+Withdrawn (amikor pénz kerül levonásra a számláról)
+Delegáltak:
+Használj beépített delegáltakat (Action<decimal>) az eseményekhez.
+Metódusok:
+Deposit(decimal amount) (pénz hozzáadása)
+Withdraw(decimal amount) (pénz levonása)
+
+AccountMonitor Osztály:
+
+Funkciók:
+Figyelj a Deposited és Withdrawn eseményekre.
+Naplózza a tranzakciókat és értesítéseket küld a konzolra, amikor egy tranzakció történik.
+
+Program Osztály:
+
+Létrehoz egy BankAccount és egy AccountMonitor példányt.
+Regisztrálja a monitor-t a számla eseményeire.
+Végezz el néhány tranzakciót, és figyeld meg, hogyan reagál a rendszer.

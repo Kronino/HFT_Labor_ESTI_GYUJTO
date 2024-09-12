@@ -1,0 +1,53 @@
+
+Készíts egy C# alkalmazást, amely az alábbi feladatokat hajtja végre:
+
+Készíts egy XML fájlt, amely könyveket tartalmaz. A fájl neve books.xml, és az alábbi struktúrával rendelkezzen: (Generáld le chatGPT.vel file-t, sok adat legyen benne)
+xml
+Copy code
+<Books>
+  <Book>
+    <Title>1984</Title>
+    <Author>George Orwell</Author>
+    <Year>1949</Year>
+    <Genre>Dystopian</Genre>
+    <Price>19.99</Price>
+  </Book>
+</Books>
+Könyv Osztály Definiálása:
+
+Hozz létre egy Book nevű osztályt a következő tulajdonságokkal:
+Title (string)
+Author (string)
+Year (int)
+Genre (string)
+Price (decimal)
+XML Beolvasása és Objektumok Létrehozása:
+
+Implementálj egy LoadBooksFromXml nevű metódust, amely beolvassa az XML fájlt, és visszaad egy List<Book> objektumot. Használj XDocument osztályt az XML beolvasásához, és deszerializáld az adatokat a Book osztály példányaivá.
+Saját LINQ Kifejezés Implementálása:
+
+Készíts egy LinqExtensions nevű statikus osztályt, amely tartalmaz egy MyWhere nevű bővítmény metódust az IEnumerable<T> típushoz. Implementáld a következőképpen:
+
+LINQ Lekérdezések Alkalmazása:
+
+Kérdés 1: Hogyan tudod kiszűrni azokat a könyveket, amelyek Genre tulajdonsága Dystopian? Használj szűrést az IEnumerable<T> lista elemeinek kiválasztására egy adott feltétel alapján, például a MyWhere metódust.
+
+Kérdés 2: Milyen LINQ kifejezést használsz, ha szeretnéd megszámolni a könyveket, amelyek Year tulajdonsága nagyobb mint 1950? Melyik LINQ metódus biztosítja, hogy az elemek száma alapján lekérdezést végezz?
+
+Kérdés 3: Hogyan tudod az adatokat Price szerint csökkenő sorrendbe rendezni? Használj rendezési metódust, amely lehetővé teszi az elemek sorrendbe állítását egy adott mező alapján.
+
+Kérdés 4: Hogyan tudod megjeleníteni azokat a könyveket, ahol az Author tulajdonság tartalmaz egy adott szót, például "Gibson"? Használj szűrést, amely lehetővé teszi a szöveges feltétel alapján történő keresést.
+
+Kérdés 5: Milyen LINQ kifejezést alkalmaznál, ha szeretnéd az összes könyvet csoportosítani a Genre alapján, és minden csoportot külön listába menteni? Használj csoportosítást, amely lehetővé teszi az elemek kategóriák szerinti szétválasztását.
+
+Kérdés 6: Hogyan tudod kiszámolni az átlagos árat a könyvek között? Melyik LINQ metódust használod az átlag kiszámítására?
+
+Kérdés 7: Hogyan tudod kiszűrni azokat a könyveket, amelyek ára nagyobb mint az átlagos ár? Használj szűrést és az átlagot egy szűrési feltételként.
+
+JSON Mentés:
+
+Implementálj egy SaveBooksToJson nevű metódust, amely a szűrt adatokat JSON formátumban menti el. Használj JsonConvert.SerializeObject metódust a JSON átalakításhoz és File.WriteAllText metódust a fájlba íráshoz.
+Könyvtár Kezelés:
+
+Ellenőrizd, hogy létezik-e a könyvtár, ahol a JSON fájlt menteni fogod. Ha nem létezik, hozd létre a szükséges könyvtárakat a Directory.CreateDirectory metódus segítségével. Győződj meg róla, hogy az útvonalak megfelelően vannak beállítva, és az összes szükséges könyvtár létezik a fájlok írásához.
+

@@ -1,0 +1,12 @@
+Hozz létre egy fő könyvtárat az aktuális év alapján, például 2024_Projects.
+A fő könyvtáron belül hozz létre egy alkönyvtárat minden projekt számára, például ProjectA, ProjectB, stb.
+Minden projekt könyvtárába hozz létre egy fájlt, amely a projekt nevét és a fájl sorszámát tartalmazza, például ProjectA-Report-001.txt, ProjectA-Report-002.txt, stb. Minden fájl tartalmazza a projekt nevét, a fájl sorszámát és egy rövid leírást.
+
+Definiálj egy Project osztályt, amely tartalmazza a projekt nevét és a hozzá tartozó fájlok listáját.
+Definiálj egy FileReport osztályt, amely tartalmazza a fájl sorszámát és a fájl tartalmát.
+A Project osztály rendelkezzen egy metódussal, amely fájlokat generál az alkönyvtárhoz.
+Események és delegáltak:
+
+Definiálj egy eseményt, amely értesít, amikor új fájl kerül létrehozásra.
+Hozz létre egy delegáltat, amely a fájl létrehozását követően végrehajtandó műveleteket definiálja.
+Az eseményhez rendelj hozzá egy eseménykezelőt, amely kiírja a fájl nevét, elérési útját és a projekt nevét.
