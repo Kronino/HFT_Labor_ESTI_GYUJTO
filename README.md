@@ -12,3 +12,5 @@ Fordítási hiba ne legyen benne, tehát fusson le, ez az alapkövetelmény, hog
 Amikor jön a megoldás, azonosítás szempontjából kérlek adjátok meg a neveteket, illetve (habár még nem tudom nézni) a neptunkódotokat is, ez késöbbiekben fontos lesz.
 
 Az órai alapkövetelmény a feltett videók megtekintése, mert elsősorban a feladatok megoldásán kell dolgozni az óra nagyobb felében, míg fél órában az anyag egyszerűbb átismétlése folyik.
+
+Késöbbiekben itt felvezetésre kerül az órai menetrend, szünetekkel összevetve, illetve egyéb követelmény információk.
