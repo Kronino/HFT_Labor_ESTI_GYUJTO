@@ -22,8 +22,8 @@ Email cím: [andras.nagyt96@stud.uni-obuda.hu]
                             <ul>
                                 <li>.sln</li>
                                 <ul>
-                                  <li>Workshop_&lt;Óraszáma&gt;_feladat_&lt;feladatszám&gt;</li>
-                                  <li>Workshop_&lt;Óraszáma&gt;_feladat_&lt;feladatszám&gt;</li>
+                                  <li>Workshop_&lt;Óraszáma&gt;_Projekt_&lt;feladatszám&gt;</li>
+                                  <li>Workshop_&lt;Óraszáma&gt;_Projekt_&lt;feladatszám&gt;</li>
                                 </ul>
                             </ul>
                         </li>
