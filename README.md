@@ -1,6 +1,9 @@
 Sziasztok, Nagy-Tóth András vagyok, a laboron itt lesznek feltöltve a feladatleírások, amiket minden következő hét HÉTFŐRE (tehát vasárnap 23:59), kell elküldeni, amiket hétfőn este fogok átnézni és pontozni.
 Email cím: [andras.nagyt96@stud.uni-obuda.hu]
 
+Forms kitöltés, kimaradt óra pótlására/online teamses órára szavazáshoz: https://forms.gle/gtKpdNXhNfb9gjQm6    , Határidő: [2024.09.30 11:59:59]
+Teams szóba kód, amivel a csapatba belehet lépni az órához (itt lesz megtartva az óra, a rendes időpontban, ha sikerül hozzá a szavazás) : ug46fr7
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
