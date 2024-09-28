@@ -1,9 +1,6 @@
 Sziasztok, Nagy-Tóth András vagyok, a laboron itt lesznek feltöltve a feladatleírások, amiket minden következő hét HÉTFŐRE (tehát vasárnap 23:59), kell elküldeni, amiket hétfőn este fogok átnézni és pontozni.
 Email cím: [andras.nagyt96@stud.uni-obuda.hu]
 
-Forms kitöltés, kimaradt óra pótlására/online teamses órára szavazáshoz: https://forms.gle/gtKpdNXhNfb9gjQm6    , Határidő: [2024.09.30 11:59:59]
-Teams szóba kód, amivel a csapatba belehet lépni az órához (itt lesz megtartva az óra, a rendes időpontban, ha sikerül hozzá a szavazás) : ug46fr7
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,6 +8,12 @@ Teams szóba kód, amivel a csapatba belehet lépni az órához (itt lesz megtar
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <div class="container">
+        <p>Forms kitöltés, kimaradt óra pótlására/online teamses órára szavazáshoz: <a href="https://forms.gle/gtKpdNXhNfb9gjQm6" target="_blank">Forms</a></p>
+        <p>Határidő: <strong>2024.09.30 11:59:59</strong></p>
+        <p>Teams szoba kód: <strong>ug46fr7</strong></p>
+        <p>Itt lesz megtartva az óra, a rendes időpontban, ha sikerül hozzá a szavazás)</p>
+    </div>
     <div class="container">
         <p>Elküldött email tárgyában a következő formátumot használjátok: <span class="example">[HFT_ESTI]-[&lt;Neptunkód&gt;]-[&lt;Név&gt;]</span></p>
         <p>példa: <span class="example">[HFT_ESTI]-[XL34RT]-[Kovács Pista]</span></p>
@@ -24,10 +27,8 @@ Teams szóba kód, amivel a csapatba belehet lépni az órához (itt lesz megtar
                         <li>Workshop_&lt;Óraszáma&gt;
                             <ul>
                                 <li>.sln</li>
-                                <ul>
-                                  <li>Workshop_&lt;Óraszáma&gt;_Projekt_&lt;feladatszám&gt;</li>
-                                  <li>Workshop_&lt;Óraszáma&gt;_Projekt_&lt;feladatszám&gt;</li>
-                                </ul>
+                                <li>Workshop_&lt;Óraszáma&gt;_feladat_&lt;feladatszám&gt;</li>
+                                <li>Workshop_&lt;Óraszáma&gt;_feladat_&lt;feladatszám&gt;</li>
                             </ul>
                         </li>
                     </ul>
@@ -35,7 +36,7 @@ Teams szóba kód, amivel a csapatba belehet lépni az órához (itt lesz megtar
             </ul>
         </div>
     </div>
-      <div class="container">
+    <div class="container">
         <p><strong>Példa feltöltve a fájlok között!</strong></p>
     </div>
 </body>
