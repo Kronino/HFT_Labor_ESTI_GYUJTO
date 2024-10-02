@@ -49,7 +49,7 @@ Amikor elkülditek a feladatmegoldást, azt .zip-be becsomagolva tegyétek, amel
 Fordítási hiba ne legyen benne, tehát fusson le, ez az alapkövetelmény, hogy pontot lehessen szerezni.
 
 1. óra workshop feladat: [delegate_events], mindkét feladat megoldandó benne, határidő: [2024.09.15 23:59]
-2. óra workshop feladat: [Workshop_2_Hazifeladat], a leírás a template projektben van. Ezt a projektet használjátok, és írjátok át benne sajátra a formai követelmény szerint. Feladat leírás kommentben a projektben megtalálható
+2. óra workshop feladat: [Workshop_2_Hazifeladat], a leírás a template projektben van. Ezt a projektet használjátok, és írjátok át benne sajátra a formai követelmény szerint.
 
 Amikor jön a megoldás, azonosítás szempontjából kérlek adjátok meg a neveteket, illetve (habár még nem tudom nézni) a neptunkódotokat is, ez késöbbiekben fontos lesz.
 
