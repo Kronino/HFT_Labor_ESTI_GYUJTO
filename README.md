@@ -38,6 +38,7 @@ Email cím: [andras.nagyt96@stud.uni-obuda.hu]
     </div>
     <div class="container">
         <p><strong>Példa feltöltve a fájlok között!</strong></p>
+        <p>Link: [https://github.com/Kronino/HFT_Labor_ESTI_GYUJTO/blob/main/Pelda_Workshop_Form/UJSI15.zip]  ezután, jobb oldalon a download icon.</p>
     </div>
 </body>
 </html>
