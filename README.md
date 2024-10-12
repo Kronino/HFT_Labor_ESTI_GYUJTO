@@ -51,6 +51,7 @@ Fordítási hiba ne legyen benne, tehát fusson le, ez az alapkövetelmény, hog
 
 1. óra workshop feladat: [delegate_events], mindkét feladat megoldandó benne, határidő: [2024.09.15 23:59]
 2. óra workshop feladat: [Workshop_2_Hazifeladat], a leírás a template projektben van. Ezt a projektet használjátok, és írjátok át sajátra a formai követelmény szerint.
+3. óra workshop feladat: [Workshop_3_Hazifeladat], a leírás a mappában található.
 
 Amikor jön a megoldás, azonosítás szempontjából kérlek adjátok meg a neveteket, illetve (habár még nem tudom nézni) a neptunkódotokat is, ez késöbbiekben fontos lesz.
 
