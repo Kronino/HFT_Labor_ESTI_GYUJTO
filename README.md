@@ -44,7 +44,7 @@ Email cím: [andras.nagyt96@stud.uni-obuda.hu]
 </html>
 
 [0]-[0,5]-[1] pontot lehet szerezni, ezeket alapvetően helyileg fogom vezetni magamnál, és amint van moodle elérhetőségem, ott felviszem külön.
-Hasonló módon a jelenlétit vezetni fogom itt githubon, név kezdőbetükkel, minden óráról.
+Hasonló módon a jelenlétit vezetni fogom itt githubon.
 
 Amikor elkülditek a feladatmegoldást, azt .zip-be becsomagolva tegyétek, amelyet ha kicsomagolunk lesz egy mappa, benne az indítható projekttel. 
 Fordítási hiba ne legyen benne, tehát fusson le, ez az alapkövetelmény, hogy pontot lehessen szerezni.
@@ -52,7 +52,5 @@ Fordítási hiba ne legyen benne, tehát fusson le, ez az alapkövetelmény, hog
 1. óra workshop feladat: [delegate_events], mindkét feladat megoldandó benne, határidő: [2024.09.15 23:59]
 2. óra workshop feladat: [Workshop_2_Hazifeladat], a leírás a template projektben van. Ezt a projektet használjátok, és írjátok át sajátra a formai követelmény szerint.
 3. óra workshop feladat: [Workshop_3_Hazifeladat], a leírás a mappában található.
-
-Amikor jön a megoldás, azonosítás szempontjából kérlek adjátok meg a neveteket, illetve (habár még nem tudom nézni) a neptunkódotokat is, ez késöbbiekben fontos lesz.
 
 Az órai alapkövetelmény a feltett videók megtekintése, mert elsősorban a feladatok megoldásán kell dolgozni az óra nagyobb felében, míg fél órában az anyag egyszerűbb átismétlése folyik.
