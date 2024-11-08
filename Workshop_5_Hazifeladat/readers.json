@@ -1,0 +1,51 @@
+{
+  "readers": [
+    {
+      "readerId": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "books": [
+        {
+          "bookId": 101,
+          "title": "C# Programming",
+          "author": "Jane Smith",
+          "borrowedDate": "2024-10-01T10:30:00"
+        },
+        {
+          "bookId": 102,
+          "title": "Entity Framework Guide",
+          "author": "Tom Johnson",
+          "borrowedDate": "2024-10-15T14:45:00"
+        }
+      ]
+    },
+    {
+      "readerId": 2,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "books": [
+        {
+          "bookId": 103,
+          "title": "LINQ Mastery",
+          "author": "John Green",
+          "borrowedDate": "2024-11-01T09:00:00"
+        }
+      ]
+    },
+    {
+      "readerId": 3,
+      "name": "Michael White",
+      "email": "michaelwhite@example.com",
+      "books": []
+    }
+  ],
+  "books": [
+    {
+      "bookId": 104,
+      "title": "Introduction to Databases",
+      "author": "Anna Bell",
+      "borrowedDate": null,
+      "readerId": null
+    }
+  ]
+}
