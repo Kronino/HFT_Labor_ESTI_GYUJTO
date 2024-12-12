@@ -1,0 +1,120 @@
+<Library>
+  <Books>
+    <Book>
+      <ID>1</ID>
+      <Title>Egri csillagok</Title>
+      <PublicationYear>1901</PublicationYear>
+      <PublisherID>1</PublisherID>
+      <AuthorID>1</AuthorID>
+    </Book>
+    <Book>
+      <ID>2</ID>
+      <Title>Pál utcai fiúk</Title>
+      <PublicationYear>1906</PublicationYear>
+      <PublisherID>1</PublisherID>
+      <AuthorID>2</AuthorID>
+    </Book>
+    <Book>
+      <ID>3</ID>
+      <Title>Az arany ember</Title>
+      <PublicationYear>1872</PublicationYear>
+      <PublisherID>2</PublisherID>
+      <AuthorID>3</AuthorID>
+    </Book>
+    <Book>
+      <ID>4</ID>
+      <Title>Tüskevár</Title>
+      <PublicationYear>1957</PublicationYear>
+      <PublisherID>3</PublisherID>
+      <AuthorID>4</AuthorID>
+    </Book>
+    <Book>
+      <ID>5</ID>
+      <Title>Ábel a rengetegben</Title>
+      <PublicationYear>1932</PublicationYear>
+      <PublisherID>3</PublisherID>
+      <AuthorID>5</AuthorID>
+    </Book>
+    <Book>
+      <ID>6</ID>
+      <Title>Sorstalanság</Title>
+      <PublicationYear>1975</PublicationYear>
+      <PublisherID>4</PublisherID>
+      <AuthorID>6</AuthorID>
+    </Book>
+    <Book>
+      <ID>7</ID>
+      <Title>A Pálosok</Title>
+      <PublicationYear>2020</PublicationYear>
+      <PublisherID>5</PublisherID>
+      <AuthorID>7</AuthorID>
+    </Book>
+    <Book>
+      <ID>8</ID>
+      <Title>A nyomorultak</Title>
+      <PublicationYear>1862</PublicationYear>
+      <PublisherID>6</PublisherID>
+      <AuthorID>8</AuthorID>
+    </Book>
+  </Books>
+  <Authors>
+    <Author>
+      <ID>1</ID>
+      <Name>Gárdonyi Géza</Name>
+    </Author>
+    <Author>
+      <ID>2</ID>
+      <Name>Molnár Ferenc</Name>
+    </Author>
+    <Author>
+      <ID>3</ID>
+      <Name>Jókai Mór</Name>
+    </Author>
+    <Author>
+      <ID>4</ID>
+      <Name>Fekete István</Name>
+    </Author>
+    <Author>
+      <ID>5</ID>
+      <Name>Tamási Áron</Name>
+    </Author>
+    <Author>
+      <ID>6</ID>
+      <Name>Kertész Imre</Name>
+    </Author>
+    <Author>
+      <ID>7</ID>
+      <Name>Bán Mór</Name>
+    </Author>
+    <Author>
+      <ID>8</ID>
+      <Name>Victor Hugo</Name>
+    </Author>
+  </Authors>
+  <Publishers>
+    <Publisher>
+      <ID>1</ID>
+      <Name>Magyar Kiadó</Name>
+    </Publisher>
+    <Publisher>
+      <ID>2</ID>
+      <Name>Révai Testvérek</Name>
+    </Publisher>
+    <Publisher>
+      <ID>3</ID>
+      <Name>Szegedi Kiadó</Name>
+    </Publisher>
+    <Publisher>
+      <ID>4</ID>
+      <Name>Cartaphilus Kiadó</Name>
+    </Publisher>
+    <Publisher>
+      <ID>5</ID>
+      <Name>Alexandra Kiadó</Name>
+    </Publisher>
+    <Publisher>
+      <ID>6</ID>
+      <Name>Hachette Livre</Name>
+    </Publisher>
+  </Publishers>
+</Library>
